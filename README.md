@@ -36,23 +36,23 @@ Thanks a lot for spending your time helping Tree2Hope grow. Thanks a lot!
 </a> -->
 
 <a href="https://github.com/Virtual4087">
-  <img style="width:100px height:100px border-radius: 50%" src="https://avatars.githubusercontent.com/u/119912892?v=4" />
+  <img style="width: 80px; height: 80px; border-radius: 50%" src="https://avatars.githubusercontent.com/u/119912892?v=4" />
 </a>
 <a href="https://github.com/AmosBlack">
-  <img style="width:100px height:100px border-radius: 50%" src="https://avatars.githubusercontent.com/u/80113495?v=4" />
+  <img style="width: 80px; height: 80px; border-radius: 50%" src="https://avatars.githubusercontent.com/u/80113495?v=4" />
 </a>
-<!-- <a href="https://github.com/purnasth">
-  <img src="https://avatars.githubusercontent.com/u/107195487?v=4" />
+<a href="https://github.com/purnasth">
+  <img style="width: 80px; height: 80px; border-radius: 50%" src="https://avatars.githubusercontent.com/u/107195487?v=4" />
 </a>
 <a href="https://github.com/Abishkardhenga">
-  <img src="https://avatars.githubusercontent.com/u/128136597?v=4" />
+  <img style="width: 80px; height: 80px; border-radius: 50%" src="https://avatars.githubusercontent.com/u/128136597?v=4" />
 </a>
 <a href="https://github.com/Bsodoge">
-  <img src="https://avatars.githubusercontent.com/u/79531561?v=4" />
+  <img style="width: 80px; height: 80px; border-radius: 50%" src="https://avatars.githubusercontent.com/u/79531561?v=4" />
 </a>
 <a href="https://github.com/Ritish134">
-  <img src="https://avatars.githubusercontent.com/u/121374890?v=4" />
-</a> -->
+  <img style="width: 80px; height: 80px; border-radius: 50%" src="https://avatars.githubusercontent.com/u/121374890?v=4" />
+</a>
 
 
 
