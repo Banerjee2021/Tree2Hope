@@ -31,8 +31,27 @@ Tree2Hope is a website dedicated to promoting the planting of trees as a means o
 
 Thanks a lot for spending your time helping Tree2Hope grow. Thanks a lot! 
 
-<a href="https://github.com/KaneshiroKeola/Tree2Hope/graphs/contributors">
+<!-- <a href="https://github.com/KaneshiroKeola/Tree2Hope/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=KaneshiroKeola/Tree2Hope" />
+</a> -->
+
+<a href="https://github.com/Virtual4087">
+  <img src="https://github.com/Virtual4087" />
+</a>
+<a href="https://github.com/AmosBlack">
+  <img src="https://github.com/AmosBlack" />
+</a>
+<a href="https://github.com/purnasth">
+  <img src="https://github.com/purnasth" />
+</a>
+<a href="https://github.com/Abishkardhenga">
+  <img src="https://github.com/Abishkardhenga" />
+</a>
+<a href="https://github.com/Bsodoge">
+  <img src="https://github.com/Bsodoge" />
+</a>
+<a href="https://github.com/Ritish134">
+  <img src="https://github.com/Ritish134" />
 </a>
 
 
